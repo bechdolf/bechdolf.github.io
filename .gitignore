@@ -1,0 +1,5 @@
+.claude
+public
+*.posts
+bin/replace
+bin/mtime
