@@ -2,14 +2,14 @@
 
 /* ── Design tokens ────────────────────────────────────────────────────────── */
 :root {
-    --accent:       #1a5276;   /* deep academic blue  */
-    --accent-light: #2980b9;   /* links / interactive */
-    --accent-pale:  #eaf2f8;   /* tinted backgrounds  */
+    --accent:       #5B1133;   /* deep burgundy       */
+    --accent-light: #831D4C;   /* links / interactive */
+    --accent-pale:  #faedf3;   /* tinted backgrounds  */
     --text:         #2c3e50;   /* body copy           */
-    --text-muted:   #6c757d;
-    --border:       #dce4ec;
+    --text-muted:   #7a6570;
+    --border:       #e8d4dd;
     --bg:           #fdfdfe;
-    --bg-card:      #f7f9fb;
+    --bg-card:      #fdf6f9;
     --radius:       6px;
     --shadow-sm:    0 1px 3px rgba(0,0,0,0.06);
     --shadow-md:    0 4px 16px rgba(0,0,0,0.08);
@@ -139,7 +139,7 @@ img.profile-float {
 }
 
 .highlight .tags {
-    color: #94a3b8;
+    color: #b89aa4;
     font-size: 0.82em;
     font-family: "Inter", sans-serif;
     letter-spacing: 0.02em;
