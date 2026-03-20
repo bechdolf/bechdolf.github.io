@@ -23,7 +23,7 @@ body {
     color: var(--text);
     background: var(--bg);
     line-height: 1.72;
-    font-size: 1.02rem;
+    font-size: 1.2rem;
     -webkit-font-smoothing: antialiased;
 }
 
